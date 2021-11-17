@@ -350,3 +350,5 @@ $RECYCLE.BIN/
 
 # Secrets
 secrets.json
+
+.idea
